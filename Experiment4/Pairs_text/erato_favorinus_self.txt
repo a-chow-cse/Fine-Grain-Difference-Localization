@@ -1,0 +1,6 @@
+test/erato_favorinus/10429002_D_lowres.png train/erato_favorinus/10429000_D_lowres.png
+test/erato_favorinus/10429002_D_lowres.png train/erato_favorinus/10428999_D_lowres.png
+test/erato_favorinus/10429002_D_lowres.png train/erato_favorinus/10429001_D_lowres.png
+train/erato_favorinus/10429000_D_lowres.png train/erato_favorinus/10428999_D_lowres.png
+train/erato_favorinus/10429000_D_lowres.png train/erato_favorinus/10429001_D_lowres.png
+train/erato_favorinus/10428999_D_lowres.png train/erato_favorinus/10429001_D_lowres.png

@@ -1,0 +1,3 @@
+test/melpomene_cythera/10428069_D_lowres.png train/melpomene_cythera/10428063_D_lowres.png
+test/melpomene_cythera/10428069_D_lowres.png train/melpomene_cythera/10428068_D_lowres.png
+train/melpomene_cythera/10428063_D_lowres.png train/melpomene_cythera/10428068_D_lowres.png

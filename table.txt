@@ -1,0 +1,15 @@
+0                 1        2                    3                   4                       5        6                    7                   8
+----------------  -------  -------------------  ------------------  ----------------------  -------  -------------------  ------------------  ------------------
+Species_1         N_Image  Misclassified_Image  Weighted_error%     Species_2               N_Image  Misclassified_Image  Weighted_error%     Accuracy
+erato_petiverana  43       9                    20.930232558139537  melpomene_rosina_N      10       9                    90.0                66.0377358490566
+erato_petiverana  43       8                    18.6046511627907    melpomene_rosina_S      14       12                   85.71428571428571   64.91228070175438
+erato_hydara      50       2                    4.0                 melpomene_melpomene     3        3                    100.0               90.56603773584906
+erato_venus       10       3                    30.0                melpomene_vulcanus      11       5                    45.45454545454545   61.904761904761905
+erato_cyrbia      22       3                    13.636363636363635  melpomene_cythera       3        3                    100.0               76.0
+erato_notabilis   7        7                    100.0               melpomene_plesseni      34       7                    20.588235294117645  65.85365853658537
+erato_etylus      7        1                    14.285714285714285  melpomene_ecuadorensis  6        3                    50.0                69.23076923076923
+erato_emma        2        2                    100.0               melpomene_aglaope       6        2                    33.33333333333333   50.0
+erato_favorinus   4        3                    75.0                melpomene_amaryllis     8        4                    50.0                41.66666666666667
+erato_microclea   10       3                    30.0                melpomene_xenoclea      10       5                    50.0                60.0
+erato_luscombei   3        3                    100.0               melpomene_schunkei      12       2                    16.666666666666664  66.66666666666666
+erato_phyllis     60       16                   26.666666666666668  melpomene_nanna         19       16                   84.21052631578947   59.49367088607595

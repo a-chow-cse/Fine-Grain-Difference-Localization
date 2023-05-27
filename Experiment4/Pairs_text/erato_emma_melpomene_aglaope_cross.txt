@@ -1,0 +1,12 @@
+test/erato_emma/10429104_D_lowres.png test/melpomene_aglaope/10428245_D_lowres.png
+test/erato_emma/10429104_D_lowres.png test/melpomene_aglaope/10428273_D_lowres.png
+test/erato_emma/10429104_D_lowres.png train/melpomene_aglaope/10428244_D_lowres.png
+test/erato_emma/10429104_D_lowres.png train/melpomene_aglaope/10428242_D_lowres.png
+test/erato_emma/10429104_D_lowres.png train/melpomene_aglaope/10428274_D_lowres.png
+test/erato_emma/10429104_D_lowres.png train/melpomene_aglaope/10428254_D_lowres.png
+train/erato_emma/10429108_D_lowres.png test/melpomene_aglaope/10428245_D_lowres.png
+train/erato_emma/10429108_D_lowres.png test/melpomene_aglaope/10428273_D_lowres.png
+train/erato_emma/10429108_D_lowres.png train/melpomene_aglaope/10428244_D_lowres.png
+train/erato_emma/10429108_D_lowres.png train/melpomene_aglaope/10428242_D_lowres.png
+train/erato_emma/10429108_D_lowres.png train/melpomene_aglaope/10428274_D_lowres.png
+train/erato_emma/10429108_D_lowres.png train/melpomene_aglaope/10428254_D_lowres.png
